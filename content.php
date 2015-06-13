@@ -1,4 +1,3 @@
-gatez_08@yahoo.com
 <?php
 include "config/koneksi.php";
 
