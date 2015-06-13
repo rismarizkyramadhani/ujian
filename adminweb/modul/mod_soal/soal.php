@@ -8,7 +8,7 @@ function bukajendela(url) {
 session_start('act');
  if (empty($_SESSION['username']) AND empty($_SESSION['passuser'])){
   echo "<link href='style.css' rel='stylesheet' type='text/css'>
- <center>Untuk mengakses modul, Anda harus login <br>";
+ <center>Untuk mengakses modul soal, Anda harus login terlebih dahulu <br>";
   echo "<a href=../../index.php><b>LOGIN</b></a></center>";
 }
 else{
