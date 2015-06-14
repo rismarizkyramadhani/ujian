@@ -109,7 +109,7 @@ border: none;
 	<div align="center"><?php include "content.php"; ?></div><br />
 		
 	<div id="footer">
-	<div align="center">Copyright © 2015 by Jurusan Teknik Informatika. All Rights Reserved<br></div>
+	<div align="center"><i>Copyright © 2015 by Jurusan Teknik Informatika. All Rights Reserved</i><br></div>
 	</div>
   </div>
 
