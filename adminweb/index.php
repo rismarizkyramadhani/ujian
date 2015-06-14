@@ -22,7 +22,7 @@ function validasi(form){
 }
 </script>
 <head>
-<title>.::Halaman Administrator::.</title>
+<title>LOGIN ADMIN </title>
 <link rel="stylesheet" href="css/style_login.css" type="text/css"/>
 </head>
 <body class="no-side">
