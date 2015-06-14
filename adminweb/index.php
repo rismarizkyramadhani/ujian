@@ -34,7 +34,7 @@ function validasi(form){
 		<div class="logo clear">
 			<div align="center">
             	<span class="title">
-                <img src="images/logo.png" alt="" width="285" height="80" class="picture" />
+                <img src="images/login.jpg" alt="" width="285" height="80" class="picture" />
                 </span>
 			</div>
 		</div>
