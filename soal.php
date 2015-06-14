@@ -37,7 +37,7 @@ echo "<div style='width:100%; border: 1px solid #EBEBEB; overflow:scroll;height:
  echo '<table width="100%" border="0">';
 
 		include "config/koneksi.php";
-		$hasil=mysql_query("select * from tbl_soal WHERE aktif='Y' ORDER BY RAND ()");
+		$hasil=mysql_query("select * from tbl_soal WHERE aktif='Y' order by rand ()");
 		$jumlah=mysql_num_rows($hasil);
 		$urut=0;
 		while($row =mysql_fetch_array($hasil))
