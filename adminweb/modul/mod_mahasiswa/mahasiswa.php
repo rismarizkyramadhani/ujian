@@ -4,7 +4,7 @@ $aksi="modul/mod_mahasiswa/aksi_mahasiswa.php";
 switch($_GET[act]){
   // Tampil Data Mahasiswa
   default:
-    echo "<h2>Data Mahasiswa Amik Selatpanjang</h2>";
+    echo "<h2>Data Mahasiswa Amik</h2>";
 	//Tombol Tambah Data
 	echo "<div style='text-align:left;padding-left:30px;'>
           <input type=button value='Tambah Data Mahasiswa' onclick=\"window.location.href='?module=mahasiswa&act=tambahmahasiswa';\">
