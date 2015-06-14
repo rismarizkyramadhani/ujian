@@ -27,7 +27,7 @@ body {
 }
 .login-header	{ 
 	height: 95px; 
-	background: url('../images/login_header.png') center bottom no-repeat; 
+	background: url('../images/login.jpg') center bottom no-repeat; 
 	padding: 15px 15px 0px 15px; 
 }
 .login-header .logo	{ 
