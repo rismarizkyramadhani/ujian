@@ -89,7 +89,7 @@ border: none;
 </style>
         </head>
         <body>
-<div id="header"> <img src="../images/header.png" width="900" height="110" /> </div>
+<div id="header"> <img src="../images/delpi.png" width="900" height="110" /> </div>
 
 
   <div id="content">
