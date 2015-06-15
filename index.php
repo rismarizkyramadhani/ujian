@@ -7,6 +7,7 @@ include "config/fungsi_kalender.php";
 ?>
 <html>
 <head>
+<link rel="shortcut icon" href="unesa-logo.png" type="image/x-icon" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link rel="stylesheet" type="text/css" href="css/mos-style.css"> <!--pemanggilan file css-->
 </head>

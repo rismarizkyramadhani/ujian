@@ -23,8 +23,10 @@ function validasi(form){
 </script>
 <head>
 <title>LOGIN ADMIN</title>
+<link rel="shortcut icon" href="unesa-logo.png" type="image/x-icon" />
 <link rel="stylesheet" href="css/style_login.css" type="text/css"/>
 </head>
+
 <body class="no-side">
 
 <div class="login-box">
