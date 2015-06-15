@@ -6,7 +6,7 @@ body {
 	
 	}
 /*Menu 2*/
-#menutop { height:28px; background:url(images/bg_menutop.jpg); margin-bottom:1px; position:relative;padding-left:78px; }
+#menutop { height:28px; background:url(images/bg_menutop.jpg); margin-bottom:1px; position:relative;padding-left:0; }
 #menutop ul { list-style:none;margin: 0; padding: 0;}
 #menutop ul li { float:left; display:inline; height:25px; line-height:23px; }
 #menutop ul li a { float:left; color:#000000; font-size:12px; padding:2px 18px 0 18px; text-decoration: none;border-left:1px solid #1893A2; }
