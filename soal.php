@@ -105,15 +105,15 @@ echo "<div style='width:100%; border: 1px solid #EBEBEB; overflow:scroll;height:
 <script> 
 	<!-- 
 	// 
-	 var detik=20;
-	 var menit=57;
+	 var detik=5;
+	 var menit=0;
 	 //document.counter.d2.value='30' 
 	
 	function display()
 	{ 
 		if (menit==0&&detik==0) {
 			alert('Waktu habis, klik OK untuk melihat hasil ujian anda.');
-			location.href="?hal=hasil_ujian";
+			location.href="index.php?hal=jawaban";
 		}
 	
 	 if (detik<=0){ 
