@@ -111,11 +111,11 @@ echo "<div style='width:100%; border: 1px solid #EBEBEB; overflow:scroll;height:
       /** Membuat Waktu Mulai Hitung Mundur Dengan 
        * var detik = 0,
        * var menit = 1,
-       * var jam = 1
+       * var jam = 0
        */
        var detik = 0;
        var menit = 1;
-       var jam = 1;
+       var jam = 0;
  
       /**
        * Membuat function hitung() sebagai Penghitungan Waktu
