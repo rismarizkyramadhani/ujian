@@ -1,4 +1,4 @@
-<body bgcolor="#99CC33">
+<body bgcolor="#0033CC">
 <?php
  include "config/koneksi.php";
  include "config/library.php";
