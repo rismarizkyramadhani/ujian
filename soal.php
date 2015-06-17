@@ -153,7 +153,7 @@ echo "<div style='width:100%; border: 1px solid #EBEBEB; overflow:scroll;height:
 		   */
 		   if(jam < 0) { 
                       clearInterval();
- 		      window.location = "http://tahukahkau.com";
+ 		      window.location = "http://localhost/coba/index.php";
                    }
 	       }
 	   } 		
