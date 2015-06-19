@@ -149,11 +149,11 @@ echo "<div style='width:100%; border: 1px solid #EBEBEB; overflow:scroll;height:
  
 		  /** Jika var jam < 0
 		   *  clearInterval() Memberhentikan Interval 
-		   *  Dan Halaman akan membuka http://tahukahkau.com/
+		   *  Dan Halaman akan membuka http://localhost/coba/index.php?hal=jawaban
 		   */
 		   if(jam < 0) { 
                       clearInterval();
- 		      window.location = "http://localhost/coba/index.php";
+ 		      window.location = "http://localhost/coba/index.php?hal=jawaban";
                    }
 	       }
 	   } 		
